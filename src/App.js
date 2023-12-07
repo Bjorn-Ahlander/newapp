@@ -1,4 +1,4 @@
-// import logo from './logo.svg';
+/// import logo from './logo.svg';
 import './App.css';
 import Comp1 from './components/Comp1';
 //import data from './components/Data.js';
